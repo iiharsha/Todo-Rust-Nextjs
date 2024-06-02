@@ -21,11 +21,11 @@ What You'll Learn:
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-a-full-stack-to-do-list-app-with-rust-backend-and-next.js-frontend)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/VI2DW5Ttupg?si=-ZyXK842Gionh1Xy)
+- [Final Code Setup video](https://youtu.be/hLu-YGQ5Eas)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
